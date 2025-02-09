@@ -52,7 +52,7 @@ The dataset consists of **150 samples** with the following columns:
 
 ## 🚀 How to Run the Project  
 
-### **1️⃣ Clone the Repository**  
+### **1️ Clone the Repository**  
 ```bash
 git clone https://github.com/NidhiRK/CodeAlpha-Iris_Flower_Classification.git
 cd Iris_Flower_Classification
